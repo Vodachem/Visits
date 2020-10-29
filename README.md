@@ -22,7 +22,7 @@
 <p style="text-align:right;" ><a href="http://45.241.61.218/Vodachem/login.php">    اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
 <p style="text-align:right;" ><a href="http://45.241.61.218/Vodachem/login.php">  خاص بادارة الشركــــة </a></p>
 <p style="text-align:right;" ><a href="http://192.168.1.2/Vodachem/login.php">   Home      اهلا ومرحبا في نظام الطلبية   </a></p>
-<p style="text-align:right;" ><a href="http://10.10.100.26/Vodachem/login.php">  Novell HQ  اهلا ومرحبا في نظام الطلبية   </a></p>
+<p style="text-align:right;" ><a href="http://10.10.100.26/Vodachem/login.php">  Vodachem HQ  اهلا ومرحبا في نظام الطلبية   </a></p>
 <!-- p style="text-align:right;" ><a href="http://45.241.61.219/Vodachem/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p-->
  
  
